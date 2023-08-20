@@ -1,0 +1,32 @@
+[
+    {
+        "id": 2,
+        "name": "Kira",
+        "isMan": true,
+        "age": 22
+    },
+    {
+        "id": 3,
+        "name": "Igor",
+        "isMan": true,
+        "age": 60
+    },
+    {
+        "id": 4,
+        "name": "Yura",
+        "isMan": false,
+        "age": 30
+    },
+    {
+        "id": 5,
+        "name": "Yura",
+        "isMan": false,
+        "age": 30
+    },
+    {
+        "id": 1,
+        "name": "Kira",
+        "isMan": true,
+        "age": 22
+    }
+]
