@@ -29,7 +29,7 @@ router.get('/:gender', async (req, res) => {
     }
 });
 
-router.get('/filtredUsers', async (req, res) => {
+router.get('/a/filtredUsers', async (req, res) => {
     try {
         const user = await UsersControllers.getUsersByAge(req.query);
         res.send(user);
